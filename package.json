@@ -1,0 +1,30 @@
+{
+    "name": "workerpool",
+    "version": "1.0.0",
+    "description": "A Worker pool implementation for RingoJS.",
+    "keywords": [
+        "concurrency",
+        "threadpool",
+        "multithreading"
+    ],
+    "homepage": "https://github.com/orfon/workerpool/",
+    "author": {
+        "name": "Philipp Naderer",
+        "email": "philipp.naderer@orf.at",
+        "web": "http://github.com/orfon/"
+    },
+    "contributors": [],
+    "repositories": [{
+        "type": "git",
+        "url": "https://github.com/orfon/workerpool.git"
+    }],
+    "bugs": "http://github.com/orfon/workerpool/issues",
+    "licenses": [{
+        "type": "Apache License Version 2.0",
+        "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+    }],
+    "engines": {
+        "ringojs": ">= 1.0.0"
+    },
+    "main": "./lib/workerpool"
+}
