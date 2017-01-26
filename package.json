@@ -13,7 +13,9 @@
         "email": "philipp.naderer@orf.at",
         "web": "http://github.com/orfon/"
     },
-    "contributors": [],
+    "contributors": [
+        "Robert Gaggl (http://dev.orf.at)"
+    ],
     "repositories": [{
         "type": "git",
         "url": "https://github.com/orfon/workerpool.git"
